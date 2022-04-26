@@ -1,5 +1,5 @@
 <h1 align="center">
-<b>Crypto tweet</b>
+<b>Crypto price tweet</b>
 </h1>
 
 <b>A simple Python  bot that tweets prices of coins every hour
@@ -7,7 +7,7 @@
 
 
 
-<h4 align="center">
+<h4 align="left">
 <b>Required! Elevated Twitter API  </b>
 </h4>
 
